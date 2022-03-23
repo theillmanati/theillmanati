@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theillmanati
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning embedded system development using the Raspberry Pi and Particle Argon.
+- 👀 I’m interested in cybersecurity, networking, programming and the IoT using Particle and Raspberry Pi.
+- 🌱 I’m currently learning system administration, Linux, subshell scripting, data driven web tech and networking fundamentals.
 - 💞️ I’m not looking to collaborate on anything just yet.
 - 📫 How to reach me ...
 
